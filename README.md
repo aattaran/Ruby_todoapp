@@ -65,3 +65,6 @@ to create todo list:
  that are in flash
  
  Todo.find(params[:id])
+ 
+ edit - form to edit an existing todo
+ submits to update - hits the database with patch or gives an errors
